@@ -1,0 +1,10 @@
+orders = [
+    {"id": 101, "customer": "Alice", "city": "lahore", "amount": "2500", "payment": "Cash", "status": "Delivered"},
+    {"id": 102, "customer": " Bob ", "city": "Karachi", "amount": "1800", "payment": "card", "status": "Delivered"},
+    {"id": 103, "customer": "Charlie", "city": "LAHORE", "amount": "N/A", "payment": "Cash", "status": "Cancelled"},
+    {"id": 104, "customer": "Diana", "city": "Islamabad", "amount": "3200", "payment": "Card", "status": "Delivered"},
+    {"id": 105, "customer": "Alice", "city": "lahore", "amount": "2500", "payment": "cash", "status": "Delivered"},
+    {"id": 106, "customer": "Eve", "city": "", "amount": "1500", "payment": "Card", "status": "Pending"},
+    {"id": 107, "customer": "Frank", "amount": "2700", "payment": "Cash", "status": "Delivered"},
+    {"id": 108, "customer": "Grace", "city": "Peshawar", "amount": "4100", "payment": "CARD", "status": "Delivered"}
+]
