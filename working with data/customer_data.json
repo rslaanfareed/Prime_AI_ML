@@ -1,4 +1,4 @@
-orders = [
+[
     {"id": 101, "customer": "Alice", "city": "lahore", "amount": "2500", "payment": "Cash", "status": "Delivered"},
     {"id": 102, "customer": " Bob ", "city": "Karachi", "amount": "1800", "payment": "card", "status": "Delivered"},
     {"id": 103, "customer": "Charlie", "city": "LAHORE", "amount": "N/A", "payment": "Cash", "status": "Cancelled"},
