@@ -53,3 +53,6 @@ select * from user;
 set sql_safe_updates = 0;
 
 
+select @@autocommit;
+set autocommit =0;
+set autocommit =1;
