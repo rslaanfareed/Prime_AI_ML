@@ -1,0 +1,9 @@
+[
+    {"name":"Ali","department":"IT","salary":"80000","experience":"5","performance":"Excellent"},
+    {"name":"Sara","department":"HR","salary":"65000","experience":"3","performance":"Good"},
+    {"name":" Hamza ","department":"IT","salary":"90000","experience":"seven","performance":"Excellent"},
+    {"name":"Noor","department":"Finance","salary":"","experience":"4","performance":"Average"},
+    {"name":"Ali","department":"IT","salary":"80000","experience":"5","performance":"Excellent"},
+    {"name":"Ayesha","department":"finance","salary":"72000","experience":"2","performance":"Good"},
+    {"name":"Bilal","department":"HR","salary":"50000","performance":"Poor"}
+]
