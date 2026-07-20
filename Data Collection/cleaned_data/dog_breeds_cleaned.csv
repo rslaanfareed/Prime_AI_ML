@@ -1,0 +1,284 @@
+name,life_max,life_min,male_weight_max,male_weight_min,female_weight_max,female_weight_min,hypoallergenic,Avg_life
+affenpinscher,16,14,5,3,5,3,True,15.0
+afghan hound,14,12,27,23,25,20,False,13.0
+airedale terrier,14,12,23,20,20,18,False,13.0
+akita,12,10,60,35,50,35,False,11.0
+alaskan klee kai,15,12,7,6,7,6,False,13.5
+alaskan malamute,15,12,39,34,34,25,False,13.5
+american bulldog,14,12,50,25,45,25,False,13.0
+american english coonhound,14,12,30,20,30,20,False,13.0
+american eskimo dog,15,12,20,9,20,9,False,13.5
+american foxhound,15,12,34,20,34,20,False,13.5
+american hairless terrier,14,12,7,6,7,6,False,13.0
+american leopard hound,15,12,40,30,35,25,False,13.5
+american staffordshire terrier,14,12,40,18,40,18,False,13.0
+american water spaniel,14,12,20,15,20,15,False,13.0
+anatolian shepherd dog,14,12,70,50,70,50,False,13.0
+appenzeller sennenhund,15,12,45,30,45,30,False,13.5
+australian cattle dog,15,12,20,16,20,16,False,13.5
+australian kelpie,14,12,20,16,20,16,False,13.0
+australian shepherd,15,12,30,20,25,17,False,13.5
+australian stumpy tail cattle dog,15,12,20,15,20,15,False,13.5
+australian terrier,16,14,6,4,6,4,False,15.0
+azawakh,14,12,30,25,30,25,False,13.0
+barbado da terceira,15,12,20,15,20,15,False,13.5
+barbet,14,12,30,20,30,20,False,13.0
+basenji,16,14,10,9,10,9,False,15.0
+basset fauve de bretagne,15,12,25,20,25,20,False,13.5
+basset hound,14,12,29,20,29,20,False,13.0
+bavarian mountain scent houn,15,12,30,20,30,20,False,13.5
+beagle,15,12,11,9,11,9,False,13.5
+bearded collie,14,12,25,20,25,20,False,13.0
+beauceron,14,12,30,25,30,25,False,13.0
+bedlington terrier,14,12,9,7,9,7,False,13.0
+belgian laekenois,15,12,30,25,30,25,False,13.5
+belgian malinois,14,12,30,25,25,20,False,13.0
+belgian sheepdog,14,12,30,25,30,25,False,13.0
+belgian tervuren,15,12,25,20,25,20,False,13.5
+bergamasco sheepdog,15,12,45,25,45,25,False,13.5
+berger picard,14,12,25,20,25,20,False,13.0
+bernese mountain dog,10,8,70,45,70,45,False,9.0
+bichon frise,16,14,5,3,5,3,True,15.0
+biewer terrier,16,14,3,2,3,2,False,15.0
+black and tan coonhound,15,12,30,20,30,20,False,13.5
+black russian terrier,12,10,60,40,60,40,False,11.0
+bloodhound,12,10,54,36,54,36,False,11.0
+bluetick coonhound,14,12,30,20,30,20,False,13.0
+boerboel,12,10,80,50,80,50,False,11.0
+bohemian shepherd,14,12,30,20,30,20,False,13.0
+bolognese,16,14,7,4,7,4,False,15.0
+border collie,16,12,30,20,25,17,False,14.0
+border terrier,16,14,8,6,8,6,False,15.0
+borzoi,12,10,45,30,35,25,False,11.0
+boston terrier,14,12,11,5,11,5,False,13.0
+bouvier des flandres,14,10,40,30,35,25,False,12.0
+boxer,12,10,32,25,29,20,False,11.0
+boykin spaniel,15,12,16,15,16,15,False,13.5
+bracco italiano,14,12,30,25,30,25,False,13.0
+braque du bourbonnais,15,12,30,20,30,20,False,13.5
+braque francais pyrenean,14,12,30,20,30,20,False,13.0
+briard,12,10,40,30,35,25,False,11.0
+brittany,14,12,25,17,25,17,False,13.0
+broholmer,10,8,30,20,30,20,False,9.0
+brussels griffon,15,12,4,2,4,2,False,13.5
+bulldog,10,8,25,20,25,20,False,9.0
+bullmastiff,10,8,59,50,54,45,False,9.0
+bull terrier,15,12,22,18,20,16,False,13.5
+cairn terrier,16,14,6,5,6,5,False,15.0
+canaan dog,14,12,20,15,20,15,False,13.0
+cane corso,12,10,50,40,45,35,False,11.0
+cardigan welsh corgi,15,12,15,10,14,10,False,13.5
+carolina dog,14,12,14,9,14,9,False,13.0
+catahoula leopard dog,14,12,32,16,32,16,False,13.0
+caucasian shepherd dog,20,15,90,50,70,45,False,17.5
+cavalier king charles spaniel,15,12,8,5,8,5,False,13.5
+central asian shepherd dog,14,12,90,50,70,45,False,13.0
+cesky terrier,14,12,8,6,8,6,False,13.0
+chesapeake bay retriever,14,12,36,25,36,25,False,13.0
+chihuahua,16,14,3,1,3,1,False,15.0
+chinese crested,16,14,5,3,5,3,True,15.0
+chinese shar-pei,14,12,25,20,25,20,False,13.0
+chinook,14,12,29,23,29,23,False,13.0
+chow chow,15,12,32,20,32,20,False,13.5
+cirneco dell'etna,14,12,14,10,14,10,False,13.0
+clumber spaniel,14,12,32,27,32,27,False,13.0
+cocker spaniel,15,12,15,11,12,9,False,13.5
+collie,14,12,30,20,30,20,False,13.0
+coton de tulear,15,12,6,4,6,4,False,13.5
+croatian sheepdog,15,12,22,18,22,18,False,13.5
+curly-coated retriever,14,12,34,27,32,25,False,13.0
+czechoslovakian vlcak,14,12,30,20,30,20,False,13.0
+dachshund,15,12,9,5,9,5,False,13.5
+dalmatian,13,11,32,25,32,25,False,12.0
+dandie dinmont terrier,14,12,11,8,11,8,False,13.0
+danish-swedish farmdog,14,12,15,10,15,10,False,13.0
+deutscher wachtelhund,14,12,20,15,20,15,False,13.0
+doberman pinscher,13,10,40,30,35,25,False,11.5
+dogo argentino,12,10,45,40,45,40,False,11.0
+dogue de bordeaux,10,8,70,50,70,50,False,9.0
+drentsche patrijshond,14,12,22,16,22,16,False,13.0
+drever,14,12,15,10,15,10,False,13.0
+dutch shepherd,14,12,40,30,35,25,False,13.0
+english cocker spaniel,14,12,16,14,16,14,False,13.0
+english foxhound,15,12,29,25,27,22,False,13.5
+english setter,14,12,30,20,30,20,False,13.0
+english springer spaniel,14,12,17,15,17,15,False,13.0
+english toy spaniel,16,14,5,3,5,3,False,15.0
+entlebucher mountain dog,14,12,30,20,30,20,False,13.0
+estrela mountain dog,14,12,60,30,50,25,False,13.0
+eurasier,15,12,30,20,30,20,False,13.5
+field spaniel,14,12,18,16,18,16,False,13.0
+finnish lapphund,14,12,20,15,20,15,False,13.0
+finnish spitz,16,14,16,10,16,10,False,15.0
+flat-coated retriever,12,10,34,27,32,25,False,11.0
+french bulldog,12,10,14,11,14,11,False,11.0
+french spaniel,15,12,30,20,30,20,False,13.5
+german longhaired pointer,14,12,32,27,32,27,False,13.0
+german pinscher,15,12,15,10,15,10,False,13.5
+german shepherd dog,13,9,40,30,32,22,False,11.0
+german shorthaired pointer,14,12,30,20,30,20,False,13.0
+german spitz,16,14,7,3,7,3,False,15.0
+german wirehaired pointer,14,12,32,25,32,25,False,13.0
+giant schnauzer,14,12,70,45,70,45,False,13.0
+glen of imaal terrier,14,12,16,14,16,14,False,13.0
+golden retriever,14,12,34,29,32,25,False,13.0
+gordon setter,14,12,32,25,32,25,False,13.0
+grand basset griffon vendéen,15,12,30,20,30,20,False,13.5
+great dane,10,8,54,45,54,45,False,9.0
+greater swiss mountain dog,10,8,70,50,60,45,False,9.0
+great pyrenees,12,10,45,35,45,35,False,11.0
+greyhound,12,10,40,25,40,25,False,11.0
+hamiltonstovare,14,12,25,20,25,20,False,13.0
+hanoverian scenthound,14,12,25,20,25,20,False,13.0
+harrier,15,12,25,20,25,20,False,13.5
+havanese,16,14,5,3,5,3,False,15.0
+hokkaido,15,12,30,20,30,20,False,13.5
+hovawart,14,12,45,30,40,25,False,13.0
+ibizan hound,15,12,25,20,25,20,False,13.5
+icelandic sheepdog,16,14,20,14,20,14,False,15.0
+irish red and white setter,14,12,32,25,32,25,False,13.0
+irish setter,14,12,32,25,32,25,False,13.0
+irish terrier,15,12,9,7,9,7,False,13.5
+irish water spaniel,14,12,32,25,32,25,True,13.0
+irish wolfhound,8,6,90,45,90,45,False,7.0
+italian greyhound,16,14,5,3,5,3,True,15.0
+jagdterrier,15,12,10,7,10,7,False,13.5
+japanese akitainu,15,12,50,35,45,30,False,13.5
+japanese chin,14,12,4,2,4,2,False,13.0
+japanese spitz,15,12,7,5,7,5,False,13.5
+japanese terrier,20,15,4,2,4,2,False,17.5
+jindo,15,12,15,10,15,10,False,13.5
+kai ken,15,12,20,15,20,15,False,13.5
+karelian bear dog,15,12,30,20,30,20,False,13.5
+keeshond,15,12,18,13,18,13,False,13.5
+kerry blue terrier,14,12,17,13,17,13,True,13.0
+kishu ken,15,12,30,20,30,20,False,13.5
+komondor,12,10,70,50,60,45,False,11.0
+kromfohrlander,14,12,6,5,6,5,False,13.0
+kuvasz,14,12,50,35,45,30,False,13.0
+labrador retriever,14,12,32,25,32,25,False,13.0
+lagotto romagnolo,15,12,20,14,20,14,False,13.5
+lakeland terrier,15,12,9,7,9,7,False,13.5
+lancashire heeler,15,12,11,8,11,8,False,13.5
+lapponian herder,14,12,20,15,20,15,False,13.0
+leonberger,10,8,80,70,65,55,False,9.0
+lhasa apso,16,14,30,20,30,20,False,15.0
+löwchen,15,12,7,5,7,5,False,13.5
+maltese,14,12,4,3,4,3,True,13.0
+manchester terrier (standard),15,12,7,6,7,6,False,13.5
+manchester terrier (toy),15,12,5,3,5,3,False,13.5
+mastiff,8,6,90,50,70,45,False,7.0
+miniature american shepherd,14,12,14,7,14,7,False,13.0
+miniature bull terrier,15,12,14,8,14,8,False,13.5
+miniature pinscher,16,14,4,2,4,2,True,15.0
+miniature schnauzer,15,12,7,5,7,5,True,13.5
+mountain cur,15,12,30,20,30,20,False,13.5
+mudi,15,12,15,10,15,10,False,13.5
+neapolitan mastiff,11,9,70,50,60,45,False,10.0
+nederlandse kooikerhondje,15,12,15,10,15,10,False,13.5
+newfoundland,10,8,70,45,70,45,False,9.0
+norfolk terrier,15,12,6,5,6,5,False,13.5
+norrbottenspets,15,12,10,8,10,8,False,13.5
+norwegian buhund,14,12,16,14,16,14,False,13.0
+norwegian elkhound,15,12,25,20,23,18,False,13.5
+norwegian lundehund,15,12,9,7,8,6,False,13.5
+norwich terrier,15,12,6,5,6,5,False,13.5
+nova scotia duck tolling retriever,14,12,16,13,16,13,False,13.0
+old english sheepdog,12,10,50,40,45,35,False,11.0
+otterhound,10,8,45,30,45,30,False,9.0
+papillon,15,12,4,3,4,3,False,13.5
+parson russell terrier,14,12,8,6,8,6,False,13.0
+pekingese,14,12,7,4,7,4,False,13.0
+pembroke welsh corgi,15,12,13,11,13,11,False,13.5
+perro de presa canario,12,10,50,40,45,35,False,11.0
+peruvian inca orchid,15,12,15,9,15,9,False,13.5
+petit basset griffon vendéen,14,12,16,12,16,12,False,13.0
+pharaoh hound,14,12,25,20,25,20,False,13.0
+plott,14,12,41,27,41,27,False,13.0
+pointer,14,12,30,20,30,20,False,13.0
+polish lowland sheepdog,14,12,20,15,20,15,False,13.0
+pomeranian,16,12,5,2,5,2,False,14.0
+poodle (miniature),16,14,7,4,7,4,False,15.0
+poodle (standard),15,12,30,20,30,20,False,13.5
+poodle (toy),16,14,4,3,4,3,True,15.0
+porcelaine,15,12,10,8,10,8,False,13.5
+portuguese podengo,14,12,10,5,10,5,False,13.0
+portuguese podengo pequeno,15,12,6,3,6,3,False,13.5
+portuguese pointer,14,12,30,25,30,25,False,13.0
+portuguese sheepdog,14,12,30,25,30,25,False,13.0
+portuguese water dog,15,12,30,25,27,22,False,13.5
+pudelpointer,15,12,30,25,25,20,False,13.5
+pug,15,12,8,6,8,6,False,13.5
+puli,15,12,14,10,14,10,False,13.5
+pumi,15,12,16,12,16,12,False,13.5
+pyrenean mastiff,12,10,100,70,90,60,False,11.0
+pyrenean shepherd,15,12,15,10,15,10,False,13.5
+rafeiro do alentejo,14,12,60,45,60,45,False,13.0
+rat terrier,16,14,6,2,6,2,False,15.0
+redbone coonhound,14,12,30,20,30,20,False,13.0
+rhodesian ridgeback,14,12,41,34,41,34,False,13.0
+romanian carpathian shepherd,14,12,65,45,60,40,False,13.0
+romanian mioritic shepherd dog,14,12,50,35,50,35,False,13.0
+rottweiler,10,8,60,50,55,45,False,9.0
+russell terrier,14,12,7,5,7,5,False,13.0
+russian toy,14,12,3,1,3,1,False,13.0
+russian tsvetnaya bolonka,16,14,5,3,5,3,False,15.0
+saint bernard,10,8,110,90,110,90,False,9.0
+saluki,14,12,30,20,30,20,False,13.0
+samoyed,14,12,30,20,30,20,False,13.0
+schapendoes,15,12,20,15,20,15,False,13.5
+schipperke,17,15,7,5,7,5,False,16.0
+scottish deerhound,10,8,50,35,50,35,False,9.0
+scottish terrier,15,12,10,9,9,8,False,13.5
+sealyham terrier,14,12,10,7,10,7,False,13.0
+segugio italiano,15,12,30,20,30,20,False,13.5
+shetland sheepdog,15,12,14,9,14,9,False,13.5
+shiba inu,15,12,10,9,10,9,False,13.5
+shih tzu,16,14,7,4,7,4,False,15.0
+shikoku,15,12,22,18,22,18,False,13.5
+siberian husky,14,12,27,20,23,16,False,13.0
+silky terrier,15,12,7,5,7,5,False,13.5
+skye terrier,15,12,8,7,8,7,False,13.5
+sloughi,14,12,30,20,30,20,False,13.0
+slovakian wirehaired pointer,15,12,35,25,35,25,False,13.5
+slovensky cuvac,14,12,40,30,40,30,False,13.0
+slovensky kopov,14,12,30,20,30,20,False,13.0
+small munsterlander,15,12,20,15,20,15,False,13.5
+smooth fox terrier,15,12,7,6,7,6,False,13.5
+soft coated wheaten terrier,15,12,25,18,25,18,True,13.5
+spanish mastiff,10,8,110,90,100,80,False,9.0
+spanish water dog,14,12,22,17,22,17,False,13.0
+spinone italiano,14,12,35,30,35,30,False,13.0
+stabyhoun,15,12,25,20,25,20,False,13.5
+staffordshire bull terrier,14,12,17,11,17,11,False,13.0
+standard schnauzer,15,12,22,18,22,18,True,13.5
+sussex spaniel,15,12,27,18,27,18,False,13.5
+swedish lapphund,14,12,20,16,20,16,False,13.0
+swedish vallhund,15,12,16,13,16,13,False,13.5
+taiwan dog,15,12,15,10,15,10,False,13.5
+teddy roosevelt terrier,15,12,11,7,11,7,False,13.5
+thai ridgeback,14,12,25,20,25,20,False,13.0
+tibetan mastiff,12,10,90,50,90,50,False,11.0
+tibetan spaniel,16,14,7,5,7,5,False,15.0
+tibetan terrier,16,14,8,6,8,6,False,15.0
+tornjak,14,12,70,40,70,40,False,13.0
+tosa,12,8,80,50,80,50,False,10.0
+toy fox terrier,16,14,3,1,3,1,False,15.0
+transylvanian hound,14,12,30,20,30,20,False,13.0
+treeing tennessee brindle,14,12,30,15,30,15,False,13.0
+treeing walker coonhound,14,12,30,20,30,20,False,13.0
+vizsla,15,12,30,20,30,20,False,13.5
+volpino italiano,15,12,6,4,6,4,False,13.5
+weimaraner,14,12,30,25,30,25,False,13.0
+welsh springer spaniel,15,12,25,18,25,18,False,13.5
+welsh terrier,15,12,9,7,9,7,False,13.5
+west highland white terrier,15,12,7,5,7,5,False,13.5
+wetterhoun,14,12,30,20,30,20,False,13.0
+whippet,15,12,15,10,15,10,False,13.5
+wire fox terrier,15,12,7,6,7,6,False,13.5
+wirehaired pointing griffon,14,12,27,18,27,18,False,13.0
+wirehaired vizsla,15,12,30,25,30,25,False,13.5
+working kelpie,15,12,20,16,20,16,False,13.5
+xoloitzcuintli,15,12,15,10,15,10,True,13.5
+yakutian laika,15,12,30,18,30,18,False,13.5
+yorkshire terrier,15,12,3,2,3,2,False,13.5
